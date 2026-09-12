@@ -1,0 +1,15 @@
+{
+  "name": "phantom-engine-2477",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 5598,
+    "createdAt": "2026-09-12T14:04:55.730Z"
+  }
+}
